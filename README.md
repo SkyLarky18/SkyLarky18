@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SkyLarky18
 - 👀 I’m quite new & am working toward landing myself a front-end developer position 
-- 🌱 I’m currently learning HTML & CSS 
-- 💞️ I’m looking to collaborate on anything to help me learn
+- 🌱 I’m currently sharpening mhy HTML & CSS as well as entering java 
+- 💞️ I’m looking to collaborate on anything I can effectively contribute in 
 - 📫 How to reach me - give me a message on github 
 
 <!---
